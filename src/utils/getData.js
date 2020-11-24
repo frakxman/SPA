@@ -1,4 +1,4 @@
-const API = 'hhtps://rickandmortyapi.com/api/character/';
+const API = 'https://rickandmortyapi.com/api/character/';
 
 const getData = async ( id ) => {
     const apiUrl = id ? `${ API }${ id }` : API;
