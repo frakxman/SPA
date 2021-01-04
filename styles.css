@@ -16,6 +16,7 @@ body {
 
 .Header a {
   text-decoration: none;
+  font-style: italic;
   color: #15302C;
 }
 
